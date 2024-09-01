@@ -1,7 +1,8 @@
 /* $begin tinymain */
 /*
  * tiny.c - A simple, iterative HTTP/1.0 Web server that uses the
- *     GET method to serve static and dynamic content.
+ *     GET method to serve static and dynamic content. 
+ * TODO - test this with modern brave
  */
 #include "csapp.h"
 #define MAX_OBJECT_SIZE 7204056
